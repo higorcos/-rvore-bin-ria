@@ -1,0 +1,8 @@
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/pythonProject.iml
+.idea/inspectionProfiles/profiles_settings.xml
+__pycache__/queue.cpython-38.pyc
+__pycache__/queue.cpython-39.pyc
+__pycache__/tree.cpython-39.pyc
